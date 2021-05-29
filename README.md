@@ -1,5 +1,5 @@
 # Huffman-Zipper
-A File zipper based on huffman codes.\
+A File zipper based on huffman codes.
 ### Manual
 Run in terminal
 ```
